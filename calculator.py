@@ -12,5 +12,9 @@ if operation == "*":
     result = num1 * num2
 elif operation == "/":
     result = num1 / num2
+elif operation == "+":
+    result = num1 + num2
+elif operation == "-":
+    result = num2 - num1 
 
 print (result)
